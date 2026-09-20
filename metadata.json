@@ -1,0 +1,6 @@
+{
+  "name": "Sunshine Pocket Therapy",
+  "description": "Executive family care coordination, pediatric neurodevelopmental navigation, and clinical therapy sanctuary portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
